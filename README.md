@@ -1,1 +1,1 @@
-# Sandro-Iobidze
+I am a Computer Science student at Kutaisi International University with practical experience in developing Python applications. I have skills in data analysis and am also proficient in frontend development.
