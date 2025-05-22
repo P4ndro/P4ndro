@@ -1,16 +1,16 @@
-# 👋 Hello World, I'm Sandro Iobidze (aka P4ndro)
+# 👋 Hello, I'm Sandro Iobidze 
 
-🎓 I'm a Computer Science student at [Kutaisi International University](https://kiu.edu.ge/), passionate about crafting clean and impactful software solutions.
+🎓 I'm a Computer Science student at [Kutaisi International University](https://kiu.edu.ge/).
 
 ---
 
 ## 💡 About Me
 
-- 🐍 Experienced in developing Python applications
-- 🌐 Proficient in frontend technologies (HTML, CSS, JavaScript, React)
-- ⚙️ Backend experience with Flask and SQL
-- 📊 Skilled in data analysis and visualization using Power BI
-- ☕ Learning and building with Java too!
+- 🐍 Experienced in developing Python applications  
+- 🌐 Proficient in frontend technologies (HTML, CSS, JavaScript, React)  
+- ⚙️ Backend experience with SQL  
+- 📊 Skilled in data analysis and visualization using Power BI  
+- ☕ Learning and building with Java too!  
 
 ---
 
@@ -36,12 +36,8 @@
 
 ## 📫 Let's Connect
 
-Feel free to reach out — collaboration and learning are what fuel me!
-
-<!-- Add your links if you'd like
-- 💼 [LinkedIn](#)
-- 📧 Email: your.email@example.com
--->
+- 💼 [LinkedIn](https://www.linkedin.com/in/sandro-iobidze-88aa93327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- 📷 [Instagram](https://www.instagram.com/s.iobidzze_?igsh=MWxtM3ptNGY2cXFxaw)
 
 ---
 
