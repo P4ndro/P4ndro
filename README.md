@@ -1,4 +1,4 @@
-#  I'm Sandro Iobidze (aka P4ndro)
+#  I'm Sandro Iobidze 
 
 🎓 I'm a Computer Science student at [Kutaisi International University](https://kiu.edu.ge/).
 
