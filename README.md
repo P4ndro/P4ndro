@@ -45,10 +45,4 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![P4ndro's GitHub stats](https://github-readme-stats.vercel.app/api?username=P4ndro&show_icons=true&theme=tokyonight)
-
-
-
 _Thanks for visiting! 🚀_
